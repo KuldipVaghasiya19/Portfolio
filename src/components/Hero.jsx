@@ -80,7 +80,7 @@ const Hero = () => {
               className="mt-12 flex space-x-6"
             >
               <motion.a 
-                href="https://github.com" 
+                href="https://github.com/KuldipVaghasiya19" 
                 target="_blank" 
                 rel="noreferrer" 
                 className="text-gray-600 hover:text-primary-600 transition-colors"
@@ -90,7 +90,7 @@ const Hero = () => {
                 <FiGithub size={24} />
               </motion.a>
               <motion.a 
-                href="https://linkedin.com" 
+                href="https://www.linkedin.com/in/kuldip-vaghasiya-518172265/" 
                 target="_blank" 
                 rel="noreferrer" 
                 className="text-gray-600 hover:text-primary-600 transition-colors"
