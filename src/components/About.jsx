@@ -44,7 +44,7 @@ const About = () => {
             className="md:w-1/2"
           >
             <img 
-              src="/src/assets/k.jpg" 
+              src="https://res.cloudinary.com/drah9gqrq/image/upload/v1751106201/WhatsApp_Image_2025-06-20_at_11.21.49_53ed2494_ujxsfr.jpg" 
               alt="About Me" 
               className="rounded-xl shadow-lg w-3/4 h-[550px] object-cover ml-20"
 

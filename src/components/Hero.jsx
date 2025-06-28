@@ -124,7 +124,7 @@ const Hero = () => {
               transition={{ type: "spring", stiffness: 300 }}
             >
               <img 
-                src="src/assets/kuldip.jpg"
+                src="https://res.cloudinary.com/drah9gqrq/image/upload/v1751106200/kuldip1_omdhey.jpg"
                 alt="Profile" 
                 className="w-full h-full object-cover"
               />

@@ -7,7 +7,7 @@ const Projects = () => {
       id: 1,
       title: "DDU E-Connect",
       description: "An Android app built for DDU students to access past papers, announcements, clubs and academic resources across branches and semesters using Firebase and Java.",
-      image: "src/assets/DDU_logo.jpeg",
+      image: "https://res.cloudinary.com/drah9gqrq/image/upload/b_rgb:FFFFFF/v1751106793/f9b59315-1514-4374-b298-202590dac6d5.png",
       technologies: ["Android Studio", "Java", "Firebase", "XML", "RecyclerView"],
       github: "https://github.com/KuldipVaghasiya19/DDU_AD_PROJECT",
       live: "https://project-demo.com"
@@ -16,7 +16,7 @@ const Projects = () => {
       id: 2,
       title: "SQLify",
       description: "A web tool that converts natural language queries into SQL using Google Palm LLM, Langchain, and Chromadb, built with Streamlit for real-time interaction.",
-      image: "src/assets/logo_sqlify.jpg",
+      image: "https://res.cloudinary.com/drah9gqrq/image/upload/v1751106630/logo_sqlify_zqwtjf.jpg",
       technologies: ["Google Palm LLM", "Langchain", "Streamlit", "ChromaDB", "Python"],
       github: "https://github.com/KuldipVaghasiya19/SQLify",
       live: "https://project-demo.com"
@@ -25,7 +25,7 @@ const Projects = () => {
       id: 3,
       title: "ArtSphere",
       description: "A full-stack e-commerce platform where artists can showcase and sell their artworks, featuring secure payments via Razorpay and built with React.js, Node.js, and MongoDB.",
-      image: "src/assets/Artsphere.png",
+      image: "https://res.cloudinary.com/drah9gqrq/image/upload/v1751106573/Black_Minimalist_Art_School_Logo_mhldbr.png",
       technologies: ["React.js", "Node.js", "MongoDB", "Razorpay API"],
       github: "https://github.com/KuldipVaghasiya19/Art-Sphere",
       live: "https://project-1-eight-phi.vercel.app/"
@@ -34,7 +34,7 @@ const Projects = () => {
       id: 4,
       title: "BankLens",
       description: "BankLens is an AI-powered system designed to analyze bank statements and predict loan eligibility. It streamlines the loan approval process for banks while offering users clear financial insights based on their income and spending patterns",
-      image: "src/assets/Banklens.jpg",
+      image: "https://res.cloudinary.com/drah9gqrq/image/upload/v1751106529/BankLens_opzw7k.jpg",
       technologies: ["React", "Spring Boot", "Python", "Logistic Regression", "MongoDB"],
       github: "https://github.com/KuldipVaghasiya19/BankLens",
       live: "https://project-demo.com"
