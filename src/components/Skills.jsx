@@ -43,9 +43,7 @@ const Skills = () => {
       color: "text-green-500",
       skills : [
   { name: "Java", icon: <FaJava /> },
-  { name: "Spring", icon: <SiSpring /> },
   { name: "Spring Boot", icon: <SiSpringboot /> },
-  { name: "Spring MVC", icon: <SiSpring /> },
   { name: "Python", icon: <SiPython /> }
 ]
     },
@@ -57,7 +55,6 @@ const Skills = () => {
         { name: "MongoDB", icon: <SiMongodb /> },
         { name: "MySQL", icon: <SiMysql /> },
         { name: "PostgreSQL", icon: <SiPostgresql /> },
-        { name: "ChromaDB", icon: <span className="text-lg font-bold">C</span> } // No official icon
       ]
     },
     {

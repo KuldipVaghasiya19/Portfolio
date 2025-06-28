@@ -60,13 +60,13 @@ const Hero = () => {
               className="mt-8 flex flex-wrap gap-4"
             >
               <button
-                onClick={() => window.location.href = '#contact'}
+                onClick={() => window.location.href = '/contact'}
                 className="btn-primary"
               >
                 Get in Touch
               </button>
               <button
-                onClick={() => window.location.href = '#projects'}
+                onClick={() => window.location.href = '/projects'}
                 className="btn-outline"
               >
                 View Projects
@@ -99,7 +99,7 @@ const Hero = () => {
               >
                 <FiLinkedin size={24} />
               </motion.a>
-              <motion.a 
+              {/* <motion.a 
                 href="https://twitter.com" 
                 target="_blank" 
                 rel="noreferrer" 
@@ -108,7 +108,7 @@ const Hero = () => {
                 whileTap={{ scale: 0.95 }}
               >
                 <FiTwitter size={24} />
-              </motion.a>
+              </motion.a> */}
             </motion.div>
           </div>
           

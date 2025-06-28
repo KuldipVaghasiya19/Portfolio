@@ -83,7 +83,7 @@ const About = () => {
               </div>
               
               <div className="mt-8">
-                <a href="/public/Resume.pdf" className="btn-outline" download>
+                <a href="https://drive.google.com/file/d/1I-m7Tzzm7HgkhVGpYlylv2o_MzMCw87t/view?usp=sharing" className="btn-outline" download>
                   Download Resume
                 </a>
               </div>
