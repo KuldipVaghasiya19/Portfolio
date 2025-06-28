@@ -53,7 +53,7 @@ const Footer = () => {
             </div>
             
             <p className="text-gray-500 text-sm flex items-center">
-              <span>© {currentYear} John Doe. All rights reserved.</span>
+              <span>© {currentYear} Kuldip Vaghasiya. All rights reserved.</span>
               {/* <span className="mx-1">•</span>
               <span className="flex items-center">
                 Made with <FiHeart className="text-primary-500 mx-1" /> in San Francisco
